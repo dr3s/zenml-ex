@@ -2,3 +2,5 @@
 
 # ZenML
 .zenml/
+.vscode/settings.json
+__pycache__/

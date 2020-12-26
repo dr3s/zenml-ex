@@ -43,3 +43,4 @@ training_pipeline.add_evaluator(
 # Run the pipeline locally
 training_pipeline.run()
 
+training_pipeline.view_anomalies()
